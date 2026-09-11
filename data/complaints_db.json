@@ -1,0 +1,48 @@
+[
+  {
+    "id": "CMP-0002",
+    "name": "Anonymous User",
+    "email": "anonymous@example.com",
+    "complaint": "my order was placed and money was deducted twice but delivery was not arrived",
+    "category": "Payment",
+    "priority": "High",
+    "category_confidence": 47.56,
+    "priority_confidence": 80.51,
+    "status": "Resolved",
+    "assigned_to": "Unassigned",
+    "resolution_note": "The issue was solved",
+    "created_at": "2026-09-11 21:53:11",
+    "updated_at": "2026-09-11 22:05:56",
+    "timeline": [
+      {
+        "time": "2026-09-11 22:05:56",
+        "status": "Resolved",
+        "note": "The issue was solved",
+        "actor": "admin"
+      }
+    ]
+  },
+  {
+    "id": "CMP-0001",
+    "name": "Anonymous User",
+    "email": "anonymous@example.com",
+    "complaint": "money was deducted from my account but payment failed",
+    "category": "Payment",
+    "priority": "High",
+    "category_confidence": 83.68,
+    "priority_confidence": 80.43,
+    "status": "In Progress",
+    "assigned_to": "Unassigned",
+    "resolution_note": "It was in the process will be solved soon",
+    "created_at": "2026-09-11 21:39:58",
+    "updated_at": "2026-09-11 22:07:25",
+    "timeline": [
+      {
+        "time": "2026-09-11 22:07:25",
+        "status": "In Progress",
+        "note": "It was in the process will be solved soon",
+        "actor": "admin"
+      }
+    ]
+  }
+]

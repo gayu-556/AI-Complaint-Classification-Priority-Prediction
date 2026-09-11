@@ -1,0 +1,361 @@
+complaint,category,priority
+The delivery person has not contacted me I need this problem resolved.,Delivery,Medium
+I am unable to complete the payment,Payment,Medium
+The product quality is very poor Can you please check this issue?,Product,Medium
+The support team did not respond to my complaint I need this problem resolved.,Service,High
+Can I change my preferred payment method I need this problem resolved.,Payment,Low
+The product is missing some parts I need this problem resolved.,Product,Medium
+My payment was declined Can you please check this issue?,Payment,High
+Can I change my preferred payment method Can you please check this issue?,Payment,Low
+The item I received is defective I need this problem resolved.,Product,High
+The application crashes when I open it This issue needs attention.,Technical,High
+I need help recovering my account This issue needs attention.,Account,High
+I want more information about the available support,Service,Low
+The delivery date has been changed,Delivery,Medium
+The customer support response was very slow Can you please check this issue?,Service,Medium
+I want to update my profile information Please resolve this as soon as possible.,Account,Low
+The website is completely unavailable,Technical,High
+My order was delivered to the wrong address Please resolve this as soon as possible.,Delivery,High
+The support team did not respond to my complaint,Service,High
+The application stopped working Please help me with this issue.,Technical,High
+I want more information about the available support I need this problem resolved.,Service,Low
+The application stopped working I need this problem resolved.,Technical,High
+The delivery person has not contacted me,Delivery,Medium
+The service was not satisfactory,Service,Medium
+I was charged but did not receive confirmation Can you please check this issue?,Payment,Medium
+I am not satisfied with the product Can you please check this issue?,Product,Low
+The delivery is taking too long This issue needs attention.,Delivery,Medium
+The mobile application is very slow Can you please check this issue?,Technical,Medium
+The service was not satisfactory Please help me with this issue.,Service,Medium
+The payment is still showing as pending Please help me with this issue.,Payment,Medium
+I cannot reset my password Please help me with this issue.,Account,High
+I received the wrong product Can you please check this issue?,Product,Medium
+I was charged twice for the same transaction Can you please check this issue?,Payment,High
+I did not receive proper support Please resolve this as soon as possible.,Service,Medium
+The mobile application is very slow This issue needs attention.,Technical,Medium
+I want to change my registered email address Please resolve this as soon as possible.,Account,Low
+How can I get a refund for my payment Can you please check this issue?,Payment,Medium
+The transaction failed after money was deducted This issue needs attention.,Payment,High
+I want to contact customer service Can you please check this issue?,Service,Low
+I am unable to change my password This issue needs attention.,Account,Medium
+I am unable to change my password,Account,Medium
+My order has not been delivered yet,Delivery,High
+I was charged but did not receive confirmation,Payment,Medium
+The support team did not respond to my complaint Please resolve this as soon as possible.,Service,High
+I want to change my registered email address,Account,Low
+The website is showing an error Please help me with this issue.,Technical,Medium
+I want to track my order This issue needs attention.,Delivery,Low
+Can I change my preferred payment method Please help me with this issue.,Payment,Low
+Money was deducted from my account but the payment failed Please resolve this as soon as possible.,Payment,High
+I am unable to complete the payment Can you please check this issue?,Payment,Medium
+I did not receive proper support,Service,Medium
+The product quality is very poor This issue needs attention.,Product,Medium
+I want to know the expected delivery date Can you please check this issue?,Delivery,Low
+My delivery is late Please resolve this as soon as possible.,Delivery,Medium
+I need help recovering my account,Account,High
+I am unhappy with the support provided Can you please check this issue?,Service,Medium
+The product quality is very poor Please help me with this issue.,Product,Medium
+Money was deducted from my account but the payment failed Can you please check this issue?,Payment,High
+I want to update my profile information I need this problem resolved.,Account,Low
+I cannot reset my password This issue needs attention.,Account,High
+The product quality is very poor I need this problem resolved.,Product,Medium
+My account has been locked Can you please check this issue?,Account,High
+I am unable to complete the payment This issue needs attention.,Payment,Medium
+The delivery date has been changed Please help me with this issue.,Delivery,Medium
+I cannot reset my password Please resolve this as soon as possible.,Account,High
+I cannot reset my password,Account,High
+I forgot my password,Account,Medium
+I want more information about the available support This issue needs attention.,Service,Low
+My order was delivered to the wrong address Please help me with this issue.,Delivery,High
+I am unhappy with the support provided This issue needs attention.,Service,Medium
+I am unable to change my password Can you please check this issue?,Account,Medium
+My order was delivered to the wrong address,Delivery,High
+My order is delayed for several days Please resolve this as soon as possible.,Delivery,High
+The product looks different from the description Please help me with this issue.,Product,Low
+The customer support response was very slow,Service,Medium
+I want to track my order Can you please check this issue?,Delivery,Low
+I cannot reset my password Can you please check this issue?,Account,High
+My order is delayed for several days I need this problem resolved.,Delivery,High
+The customer service team did not solve my issue,Service,High
+My payment was declined This issue needs attention.,Payment,High
+I cannot login to my account,Account,High
+I am getting an error while using the application,Technical,High
+I was charged twice for the same transaction Please help me with this issue.,Payment,High
+My order is delayed for several days,Delivery,High
+The website takes too long to respond I need this problem resolved.,Technical,Medium
+The customer service team did not solve my issue Please resolve this as soon as possible.,Service,High
+I have been waiting too long for customer support I need this problem resolved.,Service,High
+The app is working slowly today Please resolve this as soon as possible.,Technical,Low
+The website is showing an error I need this problem resolved.,Technical,Medium
+I want to change my registered email address Please help me with this issue.,Account,Low
+I am not satisfied with the product Please help me with this issue.,Product,Low
+My account has been locked,Account,High
+I want to update my profile information,Account,Low
+The product stopped working after delivery,Product,High
+I want to change my registered email address I need this problem resolved.,Account,Low
+The delivery is taking too long I need this problem resolved.,Delivery,Medium
+I want to track my order Please help me with this issue.,Delivery,Low
+My payment was declined Please resolve this as soon as possible.,Payment,High
+The mobile application is very slow Please help me with this issue.,Technical,Medium
+The payment is still showing as pending,Payment,Medium
+I cannot access my account Please resolve this as soon as possible.,Account,Medium
+I have been waiting too long for customer support This issue needs attention.,Service,High
+My order has not been delivered yet Please resolve this as soon as possible.,Delivery,High
+My delivery is late This issue needs attention.,Delivery,Medium
+I am getting an error while using the application Please resolve this as soon as possible.,Technical,High
+The website takes too long to respond Please resolve this as soon as possible.,Technical,Medium
+The delivery person has not contacted me Can you please check this issue?,Delivery,Medium
+I want more information about the available support Please help me with this issue.,Service,Low
+The product does not work properly I need this problem resolved.,Product,High
+I noticed a small issue with the application Please help me with this issue.,Technical,Low
+I received the wrong product Please help me with this issue.,Product,Medium
+The app keeps freezing Please resolve this as soon as possible.,Technical,Medium
+My order is delayed for several days Please help me with this issue.,Delivery,High
+The transaction failed after money was deducted Please help me with this issue.,Payment,High
+The product does not match the description Please resolve this as soon as possible.,Product,Medium
+I need help recovering my account Please help me with this issue.,Account,High
+The app keeps freezing Please help me with this issue.,Technical,Medium
+The transaction failed after money was deducted,Payment,High
+The support team did not respond to my complaint Please help me with this issue.,Service,High
+My account login is not working I need this problem resolved.,Account,Medium
+The product does not match the description I need this problem resolved.,Product,Medium
+I want to update my profile information This issue needs attention.,Account,Low
+I was charged but did not receive confirmation Please help me with this issue.,Payment,Medium
+How can I get a refund for my payment,Payment,Medium
+The website takes too long to respond Can you please check this issue?,Technical,Medium
+I want to know the expected delivery date This issue needs attention.,Delivery,Low
+I have been waiting too long for customer support,Service,High
+I am unhappy with the support provided Please resolve this as soon as possible.,Service,Medium
+The item I received is defective This issue needs attention.,Product,High
+The delivery person has not contacted me Please resolve this as soon as possible.,Delivery,Medium
+Can I change my preferred payment method Please resolve this as soon as possible.,Payment,Low
+I want to change my registered email address Can you please check this issue?,Account,Low
+I did not receive proper support I need this problem resolved.,Service,Medium
+I was charged twice for the same transaction,Payment,High
+The product stopped working after delivery Can you please check this issue?,Product,High
+The customer support response was very slow Please help me with this issue.,Service,Medium
+I was charged twice for the same transaction This issue needs attention.,Payment,High
+The app keeps freezing Can you please check this issue?,Technical,Medium
+My account login is not working Please help me with this issue.,Account,Medium
+I need help recovering my account Can you please check this issue?,Account,High
+I noticed a small issue with the application Can you please check this issue?,Technical,Low
+I want to know the expected delivery date Please resolve this as soon as possible.,Delivery,Low
+My order has not been delivered yet I need this problem resolved.,Delivery,High
+My order has not been delivered yet Can you please check this issue?,Delivery,High
+The product I received is damaged I need this problem resolved.,Product,High
+My order is delayed for several days Can you please check this issue?,Delivery,High
+I am unable to change my password I need this problem resolved.,Account,Medium
+I cannot login to my account Can you please check this issue?,Account,High
+The product I received is damaged,Product,High
+I cannot access my account,Account,Medium
+The application stopped working Please resolve this as soon as possible.,Technical,High
+The product is missing some parts This issue needs attention.,Product,Medium
+I cannot access my account Please help me with this issue.,Account,Medium
+My order is delayed for several days This issue needs attention.,Delivery,High
+I cannot login to my account I need this problem resolved.,Account,High
+The transaction failed after money was deducted Please resolve this as soon as possible.,Payment,High
+How can I get a refund for my payment Please help me with this issue.,Payment,Medium
+The mobile application is very slow,Technical,Medium
+The application crashes when I open it I need this problem resolved.,Technical,High
+I cannot login to my account Please help me with this issue.,Account,High
+The customer support response was very slow I need this problem resolved.,Service,Medium
+The customer support response was very slow Please resolve this as soon as possible.,Service,Medium
+The product quality is very poor Please resolve this as soon as possible.,Product,Medium
+The app is working slowly today,Technical,Low
+The application crashes when I open it Please resolve this as soon as possible.,Technical,High
+The mobile application is very slow I need this problem resolved.,Technical,Medium
+I am not satisfied with the product I need this problem resolved.,Product,Low
+I forgot my password I need this problem resolved.,Account,Medium
+The support team did not respond to my complaint Can you please check this issue?,Service,High
+I noticed a small issue with the application I need this problem resolved.,Technical,Low
+The support team did not respond to my complaint This issue needs attention.,Service,High
+The app is working slowly today This issue needs attention.,Technical,Low
+I have been waiting too long for customer support Please resolve this as soon as possible.,Service,High
+The product does not work properly Can you please check this issue?,Product,High
+The product does not work properly This issue needs attention.,Product,High
+My order has not been delivered yet Please help me with this issue.,Delivery,High
+The product does not work properly Please help me with this issue.,Product,High
+The website is completely unavailable Can you please check this issue?,Technical,High
+How can I get a refund for my payment I need this problem resolved.,Payment,Medium
+I was charged twice for the same transaction Please resolve this as soon as possible.,Payment,High
+I want to know the expected delivery date,Delivery,Low
+The customer support response was very slow This issue needs attention.,Service,Medium
+I want to change my registered email address This issue needs attention.,Account,Low
+I noticed a small issue with the application Please resolve this as soon as possible.,Technical,Low
+I want to track my order Please resolve this as soon as possible.,Delivery,Low
+The delivery person has not contacted me Please help me with this issue.,Delivery,Medium
+I want to update my profile information Can you please check this issue?,Account,Low
+I am unhappy with the support provided I need this problem resolved.,Service,Medium
+I did not receive proper support This issue needs attention.,Service,Medium
+The product is missing some parts Please help me with this issue.,Product,Medium
+The service was not satisfactory I need this problem resolved.,Service,Medium
+The app keeps freezing I need this problem resolved.,Technical,Medium
+The product stopped working after delivery This issue needs attention.,Product,High
+The product I received is damaged Please resolve this as soon as possible.,Product,High
+The website takes too long to respond This issue needs attention.,Technical,Medium
+The item I received is defective Please help me with this issue.,Product,High
+Money was deducted from my account but the payment failed I need this problem resolved.,Payment,High
+I want to update my profile information Please help me with this issue.,Account,Low
+I received the wrong product I need this problem resolved.,Product,Medium
+My order was delivered to the wrong address This issue needs attention.,Delivery,High
+The item I received is defective Can you please check this issue?,Product,High
+The application crashes when I open it,Technical,High
+The product does not match the description Please help me with this issue.,Product,Medium
+The product I received is damaged This issue needs attention.,Product,High
+Nobody responded to my request This issue needs attention.,Service,High
+The website is completely unavailable Please help me with this issue.,Technical,High
+I cannot reset my password I need this problem resolved.,Account,High
+The product looks different from the description Can you please check this issue?,Product,Low
+The payment is still showing as pending Please resolve this as soon as possible.,Payment,Medium
+I need help recovering my account Please resolve this as soon as possible.,Account,High
+I am not satisfied with the product This issue needs attention.,Product,Low
+My account login is not working Please resolve this as soon as possible.,Account,Medium
+The product looks different from the description I need this problem resolved.,Product,Low
+The delivery is taking too long Can you please check this issue?,Delivery,Medium
+I am getting an error while using the application Please help me with this issue.,Technical,High
+My order has not been delivered yet This issue needs attention.,Delivery,High
+Nobody responded to my request Can you please check this issue?,Service,High
+I am unable to complete the payment I need this problem resolved.,Payment,Medium
+I am unhappy with the support provided Please help me with this issue.,Service,Medium
+My account has been locked Please resolve this as soon as possible.,Account,High
+I received the wrong product This issue needs attention.,Product,Medium
+I forgot my password Please help me with this issue.,Account,Medium
+My package has not arrived,Delivery,High
+I cannot login to my account This issue needs attention.,Account,High
+The website is showing an error Can you please check this issue?,Technical,Medium
+My payment was declined,Payment,High
+I was charged but did not receive confirmation Please resolve this as soon as possible.,Payment,Medium
+The payment is still showing as pending This issue needs attention.,Payment,Medium
+The app is working slowly today I need this problem resolved.,Technical,Low
+The application stopped working This issue needs attention.,Technical,High
+The website takes too long to respond,Technical,Medium
+I want to track my order,Delivery,Low
+The delivery is taking too long Please resolve this as soon as possible.,Delivery,Medium
+The website is completely unavailable Please resolve this as soon as possible.,Technical,High
+The product looks different from the description,Product,Low
+I want to know the available payment methods Can you please check this issue?,Payment,Low
+I am not satisfied with the product,Product,Low
+I am unable to change my password Please resolve this as soon as possible.,Account,Medium
+The product is missing some parts Please resolve this as soon as possible.,Product,Medium
+I noticed a small issue with the application This issue needs attention.,Technical,Low
+My delivery is late,Delivery,Medium
+The application crashes when I open it Can you please check this issue?,Technical,High
+How can I get a refund for my payment Please resolve this as soon as possible.,Payment,Medium
+I forgot my password Please resolve this as soon as possible.,Account,Medium
+The product does not match the description This issue needs attention.,Product,Medium
+My delivery is late I need this problem resolved.,Delivery,Medium
+I am getting an error while using the application This issue needs attention.,Technical,High
+The payment is still showing as pending I need this problem resolved.,Payment,Medium
+I want to contact customer service This issue needs attention.,Service,Low
+The application stopped working Can you please check this issue?,Technical,High
+The item I received is defective,Product,High
+I am not satisfied with the product Please resolve this as soon as possible.,Product,Low
+Money was deducted from my account but the payment failed This issue needs attention.,Payment,High
+Money was deducted from my account but the payment failed,Payment,High
+The customer service team did not solve my issue This issue needs attention.,Service,High
+Nobody responded to my request Please help me with this issue.,Service,High
+The service was not satisfactory Can you please check this issue?,Service,Medium
+I cannot access my account This issue needs attention.,Account,Medium
+The delivery person has not contacted me This issue needs attention.,Delivery,Medium
+I did not receive proper support Please help me with this issue.,Service,Medium
+The delivery date has been changed Can you please check this issue?,Delivery,Medium
+The app is working slowly today Can you please check this issue?,Technical,Low
+I cannot access my account I need this problem resolved.,Account,Medium
+The delivery date has been changed Please resolve this as soon as possible.,Delivery,Medium
+My account has been locked Please help me with this issue.,Account,High
+I am unable to complete the payment Please resolve this as soon as possible.,Payment,Medium
+I was charged but did not receive confirmation I need this problem resolved.,Payment,Medium
+My order was delivered to the wrong address I need this problem resolved.,Delivery,High
+The customer service team did not solve my issue I need this problem resolved.,Service,High
+The payment is still showing as pending Can you please check this issue?,Payment,Medium
+The product quality is very poor,Product,Medium
+I want to track my order I need this problem resolved.,Delivery,Low
+The product stopped working after delivery I need this problem resolved.,Product,High
+The app keeps freezing,Technical,Medium
+The customer service team did not solve my issue Can you please check this issue?,Service,High
+The application stopped working,Technical,High
+My account has been locked I need this problem resolved.,Account,High
+I am getting an error while using the application Can you please check this issue?,Technical,High
+The website is completely unavailable I need this problem resolved.,Technical,High
+I was charged twice for the same transaction I need this problem resolved.,Payment,High
+My account has been locked This issue needs attention.,Account,High
+My payment was declined I need this problem resolved.,Payment,High
+The website is showing an error,Technical,Medium
+How can I get a refund for my payment This issue needs attention.,Payment,Medium
+I want to contact customer service Please help me with this issue.,Service,Low
+The product looks different from the description This issue needs attention.,Product,Low
+The delivery is taking too long,Delivery,Medium
+The product does not match the description Can you please check this issue?,Product,Medium
+Nobody responded to my request Please resolve this as soon as possible.,Service,High
+I want to know the expected delivery date I need this problem resolved.,Delivery,Low
+My delivery is late Can you please check this issue?,Delivery,Medium
+The delivery date has been changed I need this problem resolved.,Delivery,Medium
+The service was not satisfactory This issue needs attention.,Service,Medium
+The item I received is defective Please resolve this as soon as possible.,Product,High
+I want to contact customer service I need this problem resolved.,Service,Low
+The service was not satisfactory Please resolve this as soon as possible.,Service,Medium
+I received the wrong product Please resolve this as soon as possible.,Product,Medium
+My order was delivered to the wrong address Can you please check this issue?,Delivery,High
+The website is showing an error Please resolve this as soon as possible.,Technical,Medium
+I am unable to complete the payment Please help me with this issue.,Payment,Medium
+The delivery is taking too long Please help me with this issue.,Delivery,Medium
+My package has not arrived This issue needs attention.,Delivery,High
+The product stopped working after delivery Please help me with this issue.,Product,High
+My account login is not working Can you please check this issue?,Account,Medium
+I want to know the available payment methods Please resolve this as soon as possible.,Payment,Low
+Money was deducted from my account but the payment failed Please help me with this issue.,Payment,High
+I want to know the available payment methods Please help me with this issue.,Payment,Low
+I need help recovering my account I need this problem resolved.,Account,High
+My delivery is late Please help me with this issue.,Delivery,Medium
+I was charged but did not receive confirmation This issue needs attention.,Payment,Medium
+The product stopped working after delivery Please resolve this as soon as possible.,Product,High
+I am unable to change my password Please help me with this issue.,Account,Medium
+I want to know the available payment methods This issue needs attention.,Payment,Low
+I received the wrong product,Product,Medium
+The product I received is damaged Please help me with this issue.,Product,High
+My payment was declined Please help me with this issue.,Payment,High
+I have been waiting too long for customer support Can you please check this issue?,Service,High
+I forgot my password This issue needs attention.,Account,Medium
+The product is missing some parts Can you please check this issue?,Product,Medium
+The app keeps freezing This issue needs attention.,Technical,Medium
+I want to contact customer service Please resolve this as soon as possible.,Service,Low
+I am getting an error while using the application I need this problem resolved.,Technical,High
+Nobody responded to my request,Service,High
+I did not receive proper support Can you please check this issue?,Service,Medium
+The customer service team did not solve my issue Please help me with this issue.,Service,High
+The product I received is damaged Can you please check this issue?,Product,High
+Can I change my preferred payment method,Payment,Low
+I want to know the available payment methods I need this problem resolved.,Payment,Low
+I noticed a small issue with the application,Technical,Low
+My package has not arrived Can you please check this issue?,Delivery,High
+I want more information about the available support Can you please check this issue?,Service,Low
+My package has not arrived Please help me with this issue.,Delivery,High
+The app is working slowly today Please help me with this issue.,Technical,Low
+Can I change my preferred payment method This issue needs attention.,Payment,Low
+I want to know the available payment methods,Payment,Low
+I want to know the expected delivery date Please help me with this issue.,Delivery,Low
+The product does not work properly,Product,High
+The transaction failed after money was deducted Can you please check this issue?,Payment,High
+I have been waiting too long for customer support Please help me with this issue.,Service,High
+The website is showing an error This issue needs attention.,Technical,Medium
+The product does not match the description,Product,Medium
+My package has not arrived Please resolve this as soon as possible.,Delivery,High
+The product looks different from the description Please resolve this as soon as possible.,Product,Low
+The product does not work properly Please resolve this as soon as possible.,Product,High
+Nobody responded to my request I need this problem resolved.,Service,High
+The mobile application is very slow Please resolve this as soon as possible.,Technical,Medium
+The website is completely unavailable This issue needs attention.,Technical,High
+The website takes too long to respond Please help me with this issue.,Technical,Medium
+I cannot access my account Can you please check this issue?,Account,Medium
+I forgot my password Can you please check this issue?,Account,Medium
+I am unhappy with the support provided,Service,Medium
+The delivery date has been changed This issue needs attention.,Delivery,Medium
+The application crashes when I open it Please help me with this issue.,Technical,High
+I want more information about the available support Please resolve this as soon as possible.,Service,Low
+The transaction failed after money was deducted I need this problem resolved.,Payment,High
+My package has not arrived I need this problem resolved.,Delivery,High
+I cannot login to my account Please resolve this as soon as possible.,Account,High
+My account login is not working This issue needs attention.,Account,Medium
+The product is missing some parts,Product,Medium
+I want to contact customer service,Service,Low
+My account login is not working,Account,Medium
